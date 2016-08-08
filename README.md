@@ -1,5 +1,5 @@
 # Choosy-Foodie
-A restaurant recommender based on user reviews.
+A restaurant recommendation system based on user reviews.
 
 As opposed to the traditional restaurant recommendation systems, which recommends based on overall average ratings of a restaurant irrespective of users preferences, Choosy Foodie extracts the aspects and the associated opinions of a restaurant reviewed by each user and then recommends a restaurant based on users preferences.
 
